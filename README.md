@@ -1,5 +1,9 @@
 **欢迎大家加群讨论**
-点击链接加入群[ReactNative-解决问题交流群](https://jq.qq.com/?_wv=1027&k=4EZwdSd) :644124441
+
+点击链接加入群[ReactNative-解决问题交流群(此群已满请加群2)](https://jq.qq.com/?_wv=1027&k=4EZwdSd) :644124441
+
+点击链接加入群[ReactNative技术交流群2](https://jq.qq.com/?_wv=1027&k=55Dujm4)  :687663534
+
 # ReactNative-ListView-Checkbox-Refresh
 为ListView添加复选框，选择，全选功能。同时增加ListView的刷新功能！
 和一些ListView的基本操作。
